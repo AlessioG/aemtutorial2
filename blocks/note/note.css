@@ -6,7 +6,8 @@ main .note {
     display: flex;
     gap: 1.6rem;
     background-color: var(--color-info-background);
-    color: var(--color-info);
+    /*color: var(--color-info);*/
+    color: blue
 }
 
 main .note .icon {
