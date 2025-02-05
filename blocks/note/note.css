@@ -7,7 +7,7 @@ main .note {
     gap: 1.6rem;
     background-color: var(--color-info-background);
     /*color: var(--color-info);*/
-    color: blue
+    color: blue;
 }
 
 main .note .icon {
